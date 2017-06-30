@@ -1,0 +1,77 @@
+.header .navbar-brand{
+	padding: 0;
+
+}
+.header .navbar{
+	margin-bottom: 0;
+}
+.header .navbar{
+	height: 70px;
+}
+.header .navbar-nav>li>a {
+	padding-top: 25px;
+}
+.header .ch{width: 250px;
+			margin-top: 20px;
+			
+			}
+.header .navbar-right{
+	margin-top: -50px;
+}
+.banner{
+	background: url(../img/bannerbg.png) no-repeat;
+	height: 500px;
+}
+.banner .ju{
+	margin-top: 50px;
+}
+.banner_right{
+	background: #FFFFFF;
+	height: 380px;
+	
+}
+.banner_right p{
+	margin: 20px 0px;
+}
+.xian{
+	border: 1px dashed #000;
+	margin: 10px 0px;
+}
+.yc{
+	margin-top:20px;
+}
+.mt{
+	margin-top: 40px;
+}
+.mm{
+	margin-top: 20px;
+}
+.ss{
+	background: #1B6D85;
+	 height: 50px;
+	  line-height: 50px;
+	  color:#FFFFFF;
+	  margin-top: 20px;
+	  
+}
+.i{
+	
+	border: 1px solid #D5D5D5;
+	margin: 20px 0px;
+}
+.hy{
+	margin-top: 50px ;
+}
+.zv a{
+	color: #D4D4D4;
+}
+.foot{
+	
+	background: #000000;
+}
+.b{
+	margin-top: 50px;
+}
+.foot .media{
+	margin-top: 0;
+}
